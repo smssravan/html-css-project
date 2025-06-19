@@ -1,0 +1,4 @@
+echo "body { color: blue; }" > styles/theme.css
+git add styles/theme.css
+git commit -m "Added new theme stylesheet"
+
